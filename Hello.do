@@ -11,3 +11,6 @@ di "Please sign up when you see this file."
 di as text "Yao is here."
 
 di as error "This file is from Yao's branch."
+
+dis "Ciao tutti!"
+dis "Is it bad if I don't know what Im doing on this site?"
